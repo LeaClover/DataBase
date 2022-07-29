@@ -1,0 +1,15 @@
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\bin\Debug\net6.0\Magic.exe
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\bin\Debug\net6.0\Magic.deps.json
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\bin\Debug\net6.0\Magic.runtimeconfig.json
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\bin\Debug\net6.0\Magic.dll
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\bin\Debug\net6.0\Magic.pdb
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\obj\Debug\net6.0\Magic.csproj.AssemblyReference.cache
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\obj\Debug\net6.0\Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\obj\Debug\net6.0\Magic.AssemblyInfoInputs.cache
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\obj\Debug\net6.0\Magic.AssemblyInfo.cs
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\obj\Debug\net6.0\Magic.csproj.CoreCompileInputs.cache
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\obj\Debug\net6.0\Magic.dll
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\obj\Debug\net6.0\refint\Magic.dll
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\obj\Debug\net6.0\Magic.pdb
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\obj\Debug\net6.0\Magic.genruntimeconfig.cache
+C:\Users\Влюбленный вампир\Desktop\GeekBrain\DataBase\Magic\obj\Debug\net6.0\ref\Magic.dll
